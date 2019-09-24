@@ -9,3 +9,5 @@ As doenças encontradas em plantas podem afetar todas as espécies. A maioria da
 
 Como ocorre com todas as doenças, é importante identificar rapidamente e tratar para evitar surtos de crescimento ou morte potencial das plantas. Em grande parte dos casos, o tratamento no início da anomalia pode resolver a maioria das doenças botânicas.
 
+![alt text](https://github.com/LucasOliveiraS/plantia-startup/blob/master/img/plantas-exemplo.jpeg)
+
