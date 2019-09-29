@@ -11,3 +11,17 @@ Como ocorre com todas as doenças, é importante identificar rapidamente e trata
 
 ![alt text](https://github.com/LucasOliveiraS/plantia-startup/blob/master/img/plantas-exemplo.jpeg)
 
+Realize o download do modelo de Deep Learning em Keras, acessando o <b>output</b> desse Notebook: 
+
+Para construir o container Docker, execute:
+
+<code>sudo docker build -t keras-app:latest .</code>
+
+Para rodar o container, execute:
+
+<code>sudo docker run -d -p 5000:5000 keras-app</code>
+
+Você pode testar o modelo utilizando o seguinte código:
+
+<code>curl -X POST -F image=@plant.jpg 'http://localhost:5000/predict'</code>
+
