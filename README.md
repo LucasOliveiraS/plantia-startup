@@ -33,4 +33,5 @@ Você pode testar o modelo utilizando o seguinte código:
  <ul>
   <li><a href="https://github.com/LucasOliveiraS">Github Profile</a></li>
   <li><a href="https://www.linkedin.com/in/lucas-oliveira-492723127/">Linkedin</a></li>
+ <li><a href="https://medium.com/@lucasoliveiras">Medium</a></li>
 </ul> 
