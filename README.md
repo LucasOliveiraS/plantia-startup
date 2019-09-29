@@ -27,6 +27,8 @@ Você pode testar o modelo utilizando o seguinte código:
 
 <code>curl -X POST -F image=@plant.jpg 'http://localhost:5000/predict'</code>
 
+<h3>Projeto</h3>
+
 Para saber mais sobre o projeto, você pode ler esse  <a href="https://medium.com/@lucasoliveiras/plantia-startup-para-classifica%C3%A7%C3%A3o-de-plantas-com-doen%C3%A7as-258d75928f30"><b>artigo</b></a> que explica alguns conceitos fundamentais da aplicação.
 
 <h3>Autor</h3>
