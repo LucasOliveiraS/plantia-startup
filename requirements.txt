@@ -1,0 +1,8 @@
+tensorflow
+keras
+sklearn
+flask
+gevent
+pillow
+requests
+opencv-python
